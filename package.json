@@ -1,0 +1,23 @@
+{
+  "name": "ecdca-keys",
+  "version": "1.0.0",
+  "description": "generate keys for bitcoin, ethereum and many other cryptos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecda",
+    "public-private",
+    "key"
+  ],
+  "author": "akis",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "web3": "^1.0.0-beta.36"
+  },
+  "devDependencies": {
+    "nconf": "^0.10.0"
+  }
+}

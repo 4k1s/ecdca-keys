@@ -2,4 +2,3 @@
 *.key
 node_modules/
 config.js
-myKeys/

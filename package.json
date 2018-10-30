@@ -14,8 +14,9 @@
   "author": "akis",
   "license": "GPL-3.0",
   "dependencies": {
+    "entropy-string": "^4.1.0",
     "mocha": "^5.2.0",
-    "web3": "^1.0.0-beta.36"
+    "web3-eth-accounts": "^1.0.0-beta.36"
   },
   "devDependencies": {
     "nconf": "^0.10.0"
